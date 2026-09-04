@@ -4,6 +4,8 @@ An educational ray tracer written in vanilla JavaScript. It renders directly to 
 
 This is a re-upload from my undergraduate era. I had a great time smacking my head against the wall until I finally figured out how to implement these algorithms.
 
+![Ray-traced glass sphere with red and blue spheres and soft shadows](assets/Ray-Tracing.png)
+
 ## Features
 
 - Pinhole camera
