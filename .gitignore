@@ -1,0 +1,9 @@
+# Local development files
+node_modules/
+coverage/
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
