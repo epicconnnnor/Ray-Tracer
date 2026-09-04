@@ -1,0 +1,9 @@
+{
+  "name": "browser-ray-tracer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An educational browser-based ray tracer",
+  "scripts": {
+    "test": "node tests/intersections.test.js"
+  }
+}

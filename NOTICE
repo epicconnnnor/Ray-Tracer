@@ -1,0 +1,15 @@
+This repository includes third-party and course-related material.
+
+Three.js
+--------
+The bundled `three.min.js` file is distributed by the Three.js project under the MIT License.
+Source and license: https://threejs.org/license/
+
+Course starter material
+-----------------------
+Some comments and structural code in the renderer files were supplied as part of an academic assignment. They are retained for historical context and are not relicensed by this repository.
+
+Model data
+----------
+The scene model files are embedded OBJ data from the original class project. Verify provenance before reusing them outside this project.
+
